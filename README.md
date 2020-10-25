@@ -1,0 +1,1 @@
+This is a simple firefox extension to filter out words on pages (like *innen).
